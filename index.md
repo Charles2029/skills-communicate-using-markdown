@@ -43,7 +43,8 @@ This is my hobby
 |     2|               |
 |     3|               |
 ```
-
+---
+> there people are very enjoying their life.
 
 <details open>
 <summary>My friends hobbies</summary>
@@ -57,6 +58,7 @@ This is my hobby
 |Judy|student|Watching movie|
 
 </details>
+
 
 
 
