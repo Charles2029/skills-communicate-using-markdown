@@ -22,3 +22,6 @@ console.log("Hello World")
 - [ ] Shen Zhen
 - [x] Tai Wan
 - [ ] U.S
+
+## choose The new Jewellery
+![lao fengxiang banner](https://www.laofengxiang.com/images/botImg.jpg)
