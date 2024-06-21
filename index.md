@@ -8,8 +8,8 @@
 
 ## add the image
 ![ the icon of lao feng xinag ](https://www.laofengxiang.com/images/logo.png)\
-This is jewellry of lao feng xiang 
-## add some code in this file
+This is jewellery of lao feng xiang 
+[Lao Feng Xiang Jewellery](https://www.laofengxiang.com/)
 this is the first step of git commands
 ```
 git init
