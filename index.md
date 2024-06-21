@@ -9,3 +9,11 @@
 ## add the image
 ![ the icon of lao feng xinag ](https://www.laofengxiang.com/images/logo.png)\
 This is jewellry of lao feng xiang 
+## add some code in this file
+this is the first step of git commands
+```
+git init
+```
+``` javascript
+console.log("Hello World")
+```
