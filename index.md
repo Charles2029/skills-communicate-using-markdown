@@ -17,3 +17,8 @@ git init
 ``` javascript
 console.log("Hello World")
 ```
+## I have some travelling destinations 
+- [x] Hong kong
+- [ ] Shen Zhen
+- [x] Tai Wan
+- [ ] U.S
