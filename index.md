@@ -24,7 +24,11 @@ console.log("Hello World")
 - [ ] U.S
 
 ## choose The new Jewellery
-![lao fengxiang banner](https://www.laofengxiang.com/images/botImg.jpg)
+<details >
+  <p>the banner</p>
+  ![lao fengxiang banner](https://www.laofengxiang.com/images/botImg.jpg)
+</details>
+
 
 ## About me 
 Hi, this is charles 
@@ -39,7 +43,7 @@ This is my hobby
 ```
 
 
-<details>
+<details open>
 <summary>My friends hobbies</summary>
 <p>My friends positons:</p>
 
