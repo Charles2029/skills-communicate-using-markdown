@@ -38,22 +38,22 @@ This is my hobby
 |     3|               |
 ```
 
-|Name|positon|hobbies|
 
-|----:|------|-------|
-|Isabella|student|plaing basketball|
-|Olivia|student|Watching Tv|
-|Alex|student|Watching movie|
-
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+<details>
+<summary>My friends hobbies</summary>
+<p>My friends positons:</p>
 
 |Name|Position|hobbies|
 |----:|-------|-------|
 |isabella|student|playing basketball|
+|Olivia|student|Watching Tv|
+|Alex|student|Watching movie|
+|Judy|student|Watching movie|
+
+</details>
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
